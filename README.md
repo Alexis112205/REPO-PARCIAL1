@@ -9,7 +9,7 @@
 
 ## 📋 Descripción
 
-> 💡 Repositorio del **Parcial 1** con los ejercicios que pide realizar el parcial 1.
+> 💡 Repositorio del **Parcial 1** estructura maven  y herencia  1.
 
 ---
 
