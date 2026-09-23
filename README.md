@@ -9,7 +9,7 @@
 
 ## 📋 Descripción
 
-> 💡 Repositorio del **Parcial 1** con los ejercicios y proyectos desarrollados en clase.
+> 💡 Repositorio del **Parcial 1** con los ejercicios que pide realizar el parcial 1.
 
 ---
 
