@@ -1,8 +1,5 @@
 # 🚀 REPOSITORIO - PARCIAL 1
 
-![Status](https://img.shields.io/badge/Status-Activo-success?style=for-the-badge)
-![Versión](https://img.shields.io/badge/Versión-1.0-blue?style=for-the-badge)
-
 ## 👥 Integrantes
 
 - 🎓 **Jhon Alexis Correa**
@@ -16,10 +13,4 @@
 
 ---
 
-## 🛠️ Tecnología
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
----
-
-## 📁 Estructura
