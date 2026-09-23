@@ -1,4 +1,4 @@
-# 🚀 REPOSITORIO - PARCIAL 1
+#  REPOSITORIO - PARCIAL 1
 
 ## 👥 Integrantes
 
