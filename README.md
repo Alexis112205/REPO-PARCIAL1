@@ -9,7 +9,7 @@
 
 ## 📋 Descripción
 
-> 💡 Repositorio del **Parcial 1** estructura maven  y herencia  1.
+> 💡 Repositorio del **Parcial 1** estructura maven  y herencia con POO PROGRRAMACION 2 .
 
 ---
 
